@@ -32,7 +32,8 @@ function currentLine(katzDeli) {
 /* ticket wheel, cust count for the day, i++, return a string wleocme "#" */
 function takeAWheel(number)
 
-
+var line= []
 takeAWheel()
 takeAWheel()
 takeAWheel()
+///push//shift//
