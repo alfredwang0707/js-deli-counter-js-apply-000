@@ -35,6 +35,6 @@ var line = 1;
 line += 1 ;
 console.log(`Welcome, your number is ${number}.`)}
 
-takeAWheel(3)
+takeAWheel(line)
 takeAWheel(3)
 takeAWheel(3)
