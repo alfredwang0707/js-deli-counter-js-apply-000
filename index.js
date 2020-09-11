@@ -36,3 +36,5 @@ line += 1 ;
 return `Welcome, your number is ${number}.`}
 
 takeAWheel(3)
+takeAWheel(3)
+takeAWheel(3)
