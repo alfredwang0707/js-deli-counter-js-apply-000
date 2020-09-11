@@ -30,10 +30,11 @@ function currentLine(katzDeli) {
 }
 
 /* ticket wheel, cust count for the day, return a string wleocme "#" */
+var line = 1
 function takeAWheel(number){
-var line = 1;
+
 line += 1 ;
-console.log(`Welcome, your number is ${number}.`)}
+console.log(`Welcome, your number is ${line}.`)}
 
 takeAWheel(line)
 takeAWheel(3)
