@@ -34,3 +34,5 @@ function takeAWheel(number)
 
 
 takeAWheel()
+takeAWheel()
+takeAWheel()
