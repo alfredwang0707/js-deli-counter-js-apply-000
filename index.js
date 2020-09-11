@@ -29,7 +29,7 @@ function currentLine(katzDeli) {
   return(`The line is currently:` + line);
 }
 
-/* ticket wheel, cust count for the day, i++, return a string wleocme "#" */
+/* ticket wheel, cust count for the day, return a string wleocme "#" */
 function takeAWheel(number)
 
 var line= []
