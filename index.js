@@ -33,7 +33,7 @@ function currentLine(katzDeli) {
 function takeAWheel(number){
 var line = 1;
 line += 1 ;
-return `Welcome, your number is ${number}.`}
+console.log(`Welcome, your number is ${number}.`)}
 
 takeAWheel(3)
 takeAWheel(3)
